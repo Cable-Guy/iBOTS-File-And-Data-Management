@@ -1,0 +1,9 @@
+{
+    "data": [1,2,3],
+    "tag": "hello",
+    "isActive": true,
+    "sessions": {
+        "num": 3,
+        "location": "Bonn"
+    }
+}
